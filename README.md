@@ -53,7 +53,5 @@ Hi! I'm **Wish Nakthong**, a 2nd year DST student at Mahidol University.
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WISHERCARTs&show_icons=true&theme=dark)
-
-## 📊 Most Used Languages:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WISHERCARTs&show_icons=true&theme=dark) 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WISHERCARTs&layout=compact&theme=dark)

@@ -1,8 +1,6 @@
 ## 👋 About Me:
 Hi! I'm **Wish Nakthong**, a 2nd year DST student at Mahidol University.
-- 🔭 Currently working on: **AI Automation & Portfolio Projects**
-- 🌱 Learning: **Machine Learning, Data Science, R**
-- 💬 Ask me about: **Python, React, Next.js, n8n workflows**
+- 💼 **Currently seeking internship opportunities in Data Science & AI Automation!**
 - 🌐 Portfolio: **[my-portfolio-wish.vercel.app](https://my-portfolio-wish.vercel.app/)**
 - 📫 Contact: **wishercarts@gmail.com**
 

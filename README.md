@@ -28,7 +28,6 @@
 ## 👋 About Me:
 Hi! I'm **Wish Nakthong**, a 2nd year DST student at Mahidol University.
 - 💼 **Currently seeking internship opportunities in Data Engineer & AI Automation!**
-- 🔭 **Currently working on:** AI Automation with n8n
 - 📚 **Currently learning:** Machine Learning & Flutter
 - 🌐 Portfolio: **[my-portfolio-wish.vercel.app](https://my-portfolio-wish.vercel.app/)**
 - 📫 Contact: **wishercarts@gmail.com**

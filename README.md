@@ -31,10 +31,10 @@ Hi! I'm **Wish Nakthong**, a 2nd year DST student at Mahidol University.
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack & Demo |
+| Project | Description | Demo |
 | :--- | :--- | :--- |
-| **🧠 Face Recognition System** | **AI Web Application:** An end-to-end face identification system using **PCA** for dimensionality reduction and **SVM** for classification. Features a user-friendly web interface. | ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python) ![Scikit-learn](https://img.shields.io/badge/-Sklearn-F7931E?style=flat&logo=scikit-learn) <br> [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://wishercarts-face-recognition-system-app-vti7zr.streamlit.app/) |
-| **🌐 Personal Portfolio** | **Modern Frontend:** A high-performance personal portfolio website designed with a focus on responsiveness and modern UI/UX. | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss) <br> [👉 Visit Site](https://my-portfolio-wish.vercel.app/) |
+| **🧠 Face Recognition System** | **AI Web Application:** An end-to-end face identification system using **PCA** for dimensionality reduction and **SVM** for classification. Features a user-friendly web interface. |  <br> [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://wishercarts-face-recognition-system-app-vti7zr.streamlit.app/) |
+| **🌐 Personal Portfolio** | **Modern Frontend:** A high-performance personal portfolio website designed with a focus on responsiveness and modern UI/UX. | <br> [👉 Visit Site](https://my-portfolio-wish.vercel.app/) |
 
 
 ## 🛠 Tech Stack:

@@ -2,28 +2,21 @@
   
 ![Header](https://capsule-render-ph2f6mmby-wishs-projects-439d4134.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Wish%20Nakthong&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Data%20%26amp%3B%20AI%20Engineer%20Internship&descSize=25&descAlignY=60&descAlign=50)
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=339933&center=true&vCenter=true&width=600&lines=Mahidol+University+Student+(DST);Seeking+Internship:+Data+%26+AI;Interested+in+Automation+%26+Machine+Learning" alt="Typing SVG" />
-</a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=667eea&center=true&vCenter=true&width=600&lines=2nd+Year+DST+Student+%40+Mahidol;Building+ML+%26+Web+Applications;Open+to+Internship+Opportunities)](https://git.io/typing-svg)
 
-<p align="center">
-  <a href="https://youtube.com/@wishercarts" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="https://linkedin.com/in/wish-nakthong" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:wishercarts@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://my-portfolio-wish.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
+
+<p>
+  <a href="https://my-portfolio-wish.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/wish-nakthong"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:wishercarts@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://youtube.com/@wishercarts"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=WISHERCARTs&color=blue&style=flat-square)
 
 </div>
+
+
 
 ## 👋 About Me:
 Hi! I'm **Wish Nakthong**, a 2nd year DST student at Mahidol University.
@@ -35,6 +28,13 @@ Hi! I'm **Wish Nakthong**, a 2nd year DST student at Mahidol University.
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@wishercarts)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/wish-nakthong)
+
+## 🚀 Featured Projects
+| Project                                                                       | Tech Stack                  | Description                          |
+| ----------------------------------------------------------------------------- | --------------------------- | ------------------------------------ |
+| 🧠 [Face Recognition](https://github.com/WISHERCARTs/face-recognition-system) | Python, PCA, SVM, Streamlit | ระบบจำแนกใบหน้าด้วย Machine Learning |
+| 🌐 [Portfolio Website](https://my-portfolio-wish.vercel.app/)                 | Next.js, TailwindCSS        | Personal portfolio website           |
+
 
 ## 🛠 Tech Stack:
 
@@ -87,3 +87,8 @@ Hi! I'm **Wish Nakthong**, a 2nd year DST student at Mahidol University.
 <p>
   <img width="100%" src="https://activity-graph.vercel.app/graph?username=WISHERCARTs&theme=tokyonight&bg_color=0d1117&hide_border=true" />
 </p>
+
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=339933&center=true&vCenter=true&width=600&lines=Mahidol+University+Student+(DST);Seeking+Internship:+Data+%26+AI;Interested+in+Automation+%26+Machine+Learning" alt="Typing SVG" />
+</a>

@@ -21,8 +21,8 @@
 
 ## 👋 About Me:
 Hi! I'm **Wish Nakthong**, a 3rd-year DST student at Mahidol University (Faculty of ICT) and **Google Student Ambassador 2026 [BATCH 1]**.
-- 🤖 **Ex-AI Agent Builder Intern @ Botnoi Group** — built agentic workflows, multi-agent RAG pipelines, and the "Local Soul" tourism chatbot
-- 💼 **Currently seeking internship/full-time opportunities as an AI Engineer or Solutions Architect!**
+- 🤖 **Ex-AI Agent Builder Intern @ Botnoi Group** — built agentic workflows, multi-agent RAG pipelines
+- 💼 **Currently seeking internship/full-time opportunities as an AI Engineer!**
 - 📚 **Currently learning:** Machine Learning & Flutter
 - 🌐 Portfolio: **[my-portfolio-wish.vercel.app](https://my-portfolio-wish.vercel.app/)**
 - 📫 Contact: **wishercarts@gmail.com**

@@ -96,10 +96,6 @@ Hi! I'm **Wish Nakthong**, a 3rd-year DST student at Mahidol University (Faculty
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 
-## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WISHERCARTs&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WISHERCARTs&layout=compact&theme=dark)
-
 <p>
   <img width="100%" src="https://activity-graph.vercel.app/graph?username=WISHERCARTs&theme=tokyonight&bg_color=0d1117&hide_border=true" />
 </p>

@@ -1,6 +1,6 @@
 <div align="center">
   
-![Header](https://capsule-render-ph2f6mmby-wishs-projects-439d4134.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Wish%20Nakthong&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%26%20Solutions%20Architect&descSize=25&descAlignY=60&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Wish%20Nakthong&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%26%20Solutions%20Architect&descSize=25&descAlignY=60&descAlign=50)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=667eea&center=true&vCenter=true&width=600&lines=3rd+Year+DST+Student+%40+Mahidol;Google+Student+Ambassador+2026;Ex-AI+Agent+Builder+Intern+%40+Botnoi;Open+to+Internship+Opportunities)](https://git.io/typing-svg)
 
@@ -97,8 +97,8 @@ Hi! I'm **Wish Nakthong**, a 3rd-year DST student at Mahidol University (Faculty
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats-seven-gules-11.vercel.app/api?username=WISHERCARTs&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats-seven-gules-11.vercel.app/api/top-langs/?username=WISHERCARTs&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WISHERCARTs&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WISHERCARTs&layout=compact&theme=dark)
 
 <p>
   <img width="100%" src="https://activity-graph.vercel.app/graph?username=WISHERCARTs&theme=tokyonight&bg_color=0d1117&hide_border=true" />

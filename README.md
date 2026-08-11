@@ -1,14 +1,15 @@
 <div align="center">
   
-![Header](https://capsule-render-ph2f6mmby-wishs-projects-439d4134.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Wish%20Nakthong&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Data%20%26amp%3B%20AI%20Engineer%20Internship&descSize=25&descAlignY=60&descAlign=50)
+![Header](https://capsule-render-ph2f6mmby-wishs-projects-439d4134.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Wish%20Nakthong&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%26%20Solutions%20Architect&descSize=25&descAlignY=60&descAlign=50)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=667eea&center=true&vCenter=true&width=600&lines=2nd+Year+DST+Student+%40+Mahidol;Building+ML+%26+Web+Applications;Open+to+Internship+Opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=667eea&center=true&vCenter=true&width=600&lines=3rd+Year+DST+Student+%40+Mahidol;Google+Student+Ambassador+2026;Ex-AI+Agent+Builder+Intern+%40+Botnoi;Open+to+Internship+Opportunities)](https://git.io/typing-svg)
 
 
 <p>
   <a href="https://my-portfolio-wish.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://linkedin.com/in/wish-nakthong"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:wishercarts@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/wishercarts"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://youtube.com/@wishercarts"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
@@ -19,8 +20,9 @@
 
 
 ## 👋 About Me:
-Hi! I'm **Wish Nakthong**, a 2nd year DST student at Mahidol University.
-- 💼 **Currently seeking internship opportunities in Data Engineer & AI Enginner!**
+Hi! I'm **Wish Nakthong**, a 3rd-year DST student at Mahidol University (Faculty of ICT) and **Google Student Ambassador 2026 [BATCH 1]**.
+- 🤖 **Ex-AI Agent Builder Intern @ Botnoi Group** — built agentic workflows, multi-agent RAG pipelines, and the "Local Soul" tourism chatbot
+- 💼 **Currently seeking internship/full-time opportunities as an AI Engineer or Solutions Architect!**
 - 📚 **Currently learning:** Machine Learning & Flutter
 - 🌐 Portfolio: **[my-portfolio-wish.vercel.app](https://my-portfolio-wish.vercel.app/)**
 - 📫 Contact: **wishercarts@gmail.com**
@@ -28,6 +30,7 @@ Hi! I'm **Wish Nakthong**, a 2nd year DST student at Mahidol University.
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@wishercarts)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/wish-nakthong)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/wishercarts)
 
 ## 🚀 Featured Projects
 
@@ -35,6 +38,9 @@ Hi! I'm **Wish Nakthong**, a 2nd year DST student at Mahidol University.
 | :--- | :--- | :--- |
 | **🧠 Face Recognition System** | **AI Web Application:** An end-to-end face identification system using **PCA** for dimensionality reduction and **SVM** for classification. Features a user-friendly web interface. | <br> [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://wishercarts-face-recognition-system-app-vti7zr.streamlit.app/) |
 | **🔢 MLP Digit Recognition** | **Neural Network:** Handwritten digit recognition using **MLP** with interactive drawing canvas and real-time predictions. | <br> [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://mlp-wishercarts.streamlit.app/) |
+| **⚙️ AI Automation Bot** | **Serverless Automation:** Monitors tech news 24/7, uses AI to summarize content, and auto-updates a database with zero human intervention. | <br> `n8n` `Google Gemini` `Sheets` |
+| **💬 AI Chatbot Portfolio** | **Next.js 14:** Portfolio site with a Google Gemini-powered AI chatbot, dark mode, and real-time streaming responses. | <br> [👉 Visit Site](https://my-portfolio-wish.vercel.app/) |
+| **🔑 CD Keys Website** | **Full-Stack Marketplace:** CD-Key marketplace built with React, Vite, Node.js & MySQL, with JWT auth and search. | <br> `React` `Node.js` `MySQL` |
 | **🌐 Personal Portfolio** | **Modern Frontend:** A high-performance personal portfolio website designed with a focus on responsiveness and modern UI/UX. | <br> [👉 Visit Site](https://my-portfolio-wish.vercel.app/) |
 
 
@@ -61,6 +67,10 @@ Hi! I'm **Wish Nakthong**, a 2nd year DST student at Mahidol University.
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white)
 
+### Automation & Integration
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![LINE](https://img.shields.io/badge/LINE%20OA-00C300?style=flat&logo=line&logoColor=white)
+
 ### Web Frameworks & APIs
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
@@ -79,7 +89,6 @@ Hi! I'm **Wish Nakthong**, a 2nd year DST student at Mahidol University.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ### Design & Content
@@ -97,5 +106,5 @@ Hi! I'm **Wish Nakthong**, a 2nd year DST student at Mahidol University.
 
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=339933&center=true&vCenter=true&width=600&lines=Mahidol+University+Student+(DST);Seeking+Internship:+Data+%26+AI;Interested+in+Automation+%26+Machine+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=339933&center=true&vCenter=true&width=600&lines=Mahidol+University+Student+(DST);Google+Student+Ambassador+2026;Seeking%3A+AI+Engineer+%26+Solutions+Architect;Interested+in+Automation+%26+Machine+Learning" alt="Typing SVG" />
 </a>

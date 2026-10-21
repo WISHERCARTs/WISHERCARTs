@@ -12,6 +12,7 @@
   <a href="mailto:wishercarts@gmail.com"><img src="https://img.shields.io/badge/Email-FFD93D?style=for-the-badge&logo=gmail&logoColor=111111" alt="Email" /></a>
   <a href="https://youtube.com/@wishercarts"><img src="https://img.shields.io/badge/YouTube-C4A1FF?style=for-the-badge&logo=youtube&logoColor=111111" alt="YouTube" /></a>
   <a href="https://instagram.com/wishercarts"><img src="https://img.shields.io/badge/Instagram-9BE564?style=for-the-badge&logo=instagram&logoColor=111111" alt="Instagram" /></a>
+  <a href="https://fastwork.com/user/wish"><img src="https://img.shields.io/badge/Fastwork-FF7A21?style=for-the-badge" alt="Fastwork" /></a>
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=WISHERCARTs&color=blue&style=flat-square)

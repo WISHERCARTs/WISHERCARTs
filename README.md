@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://my-portfolio-wish.vercel.app/">
-  <img src="./assets/banner.png" alt="Wish Nakthong, AI Engineer. Google Student Ambassador 2026, ex-Botnoi intern, ICT Mahidol, open to internships." width="100%" />
+  <img src="./assets/banner.svg" alt="Wish Nakthong, AI Engineer. Christmas edition with falling snow. Google Student Ambassador 2026, ex-Botnoi intern, ICT Mahidol, open to internships and co-op." width="100%" />
 </a>
 
 <br />
@@ -15,7 +15,7 @@
   <a href="https://fastwork.com/user/wish"><img src="https://img.shields.io/badge/Fastwork-FF7A21?style=for-the-badge" alt="Fastwork" /></a>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=WISHERCARTs&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=WISHERCARTs&color=E5383B&style=flat-square)
 
 </div>
 
@@ -27,7 +27,7 @@
   - Built the frontend of a travel app for finding hidden places in Japan (React, TypeScript, Tailwind, Leaflet) with Supabase Auth and a real database
   - Connected Botnoi's real-time voice avatar to a Next.js trip planner, so the agent can fill in forms and move between pages
   - Built the RAG chatbot (vector search + Typhoon LLM) for **Local Soul**, our team's AI travel companion
-- Looking for an **AI Engineer** or **Solutions Architect** internship
+- Looking for an **AI Engineer** or **Solutions Architect** internship and co-op
 
 ## Projects
 
@@ -59,6 +59,29 @@
 **Tools and automation**<br />
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vscode,postman,vercel,n8n,figma,notion&theme=dark" alt="Git, GitHub, GitHub Actions, Docker, VS Code, Postman, Vercel, n8n, Figma, Notion" />
 
+## Timeline
+
+| When | What happened |
+| :-- | :-- |
+| 2019 | Started high school at Sukhondheerawidh School, Nakhon Pathom |
+| 2024 | Entered ICT Mahidol, B.Sc. Digital Science & Technology |
+| 2025 | Cisco networking, GitHub and Notion courses, built this portfolio, an AI news bot, the CD Keys site and R labs |
+| Jan to Mar 2026 | Solana certificate, Gemini Academy, C++ Essentials, IoT. Started as **Google Student Ambassador, Batch 1** |
+| May to Jul 2026 | Technical Facilitator at Google Cloud AI Live + Labs Bangkok, then **AI Agent Builder Intern at Botnoi Group** |
+| Jun to Oct 2026 | Local Soul chatbot, LINE OA AI chatbot, AWS Academy Cloud Foundations, Google Cloud Fundamentals, Thai RAG with evaluation |
+| Oct 2026 | **Honorable Mention**, MUICT x The Mall Group Hackathon 2026 |
+
+Full story with photos: [portfolio timeline](https://my-portfolio-wish.vercel.app/)
+
+## Certificates and badges
+
+20+ certificates across Google (Gemini Academy, Cloud Fundamentals, Student Ambassador), Internship (Botnoi Trainee, Internship and Co-op prep), Networking and IoT (CCNA, Packet Tracer, IoT), AWS Academy Cloud Foundations, Mahidol courses and more. See them all on the [portfolio](https://my-portfolio-wish.vercel.app/).
+
+## Education
+
+- **Mahidol University**, B.Sc. Digital Science & Technology (DST major), Faculty of ICT, Salaya Campus (2024 to now)
+- **Sukhondheerawidh School**, high school, Nakhon Pathom (2019 to 2024)
+
 ## Activity
 
-<img width="100%" src="https://activity-graph.vercel.app/graph?username=WISHERCARTs&theme=tokyonight&bg_color=0d1117&hide_border=true" alt="Contribution activity graph" />
+<img width="100%" src="https://activity-graph.vercel.app/graph?username=WISHERCARTs&bg_color=0d1117&color=E5383B&line=2FA866&point=FFD93D&title_color=FFD93D&hide_border=true" alt="Contribution activity graph" />

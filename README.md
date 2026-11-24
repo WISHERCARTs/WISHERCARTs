@@ -59,29 +59,6 @@
 **Tools and automation**<br />
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vscode,postman,vercel,n8n,figma,notion&theme=dark" alt="Git, GitHub, GitHub Actions, Docker, VS Code, Postman, Vercel, n8n, Figma, Notion" />
 
-## Timeline
-
-| When | What happened |
-| :-- | :-- |
-| 2019 | Started high school at Sukhondheerawidh School, Nakhon Pathom |
-| 2024 | Entered ICT Mahidol, B.Sc. Digital Science & Technology |
-| 2025 | Cisco networking, GitHub and Notion courses, built this portfolio, an AI news bot, the CD Keys site and R labs |
-| Jan to Mar 2026 | Solana certificate, Gemini Academy, C++ Essentials, IoT. Started as **Google Student Ambassador, Batch 1** |
-| May to Jul 2026 | Technical Facilitator at Google Cloud AI Live + Labs Bangkok, then **AI Agent Builder Intern at Botnoi Group** |
-| Jun to Oct 2026 | Local Soul chatbot, LINE OA AI chatbot, AWS Academy Cloud Foundations, Google Cloud Fundamentals, Thai RAG with evaluation |
-| Oct 2026 | **Honorable Mention**, MUICT x The Mall Group Hackathon 2026 |
-
-Full story with photos: [portfolio timeline](https://my-portfolio-wish.vercel.app/)
-
-## Certificates and badges
-
-20+ certificates across Google (Gemini Academy, Cloud Fundamentals, Student Ambassador), Internship (Botnoi Trainee, Internship and Co-op prep), Networking and IoT (CCNA, Packet Tracer, IoT), AWS Academy Cloud Foundations, Mahidol courses and more. See them all on the [portfolio](https://my-portfolio-wish.vercel.app/).
-
-## Education
-
-- **Mahidol University**, B.Sc. Digital Science & Technology (DST major), Faculty of ICT, Salaya Campus (2024 to now)
-- **Sukhondheerawidh School**, high school, Nakhon Pathom (2019 to 2024)
-
 ## Activity
 
 <img width="100%" src="https://activity-graph.vercel.app/graph?username=WISHERCARTs&bg_color=0d1117&color=E5383B&line=2FA866&point=FFD93D&title_color=FFD93D&hide_border=true" alt="Contribution activity graph" />
